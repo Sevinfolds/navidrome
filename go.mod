@@ -30,7 +30,7 @@ require (
 	github.com/lestrrat-go/jwx/v2 v2.0.8
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/mattn/go-sqlite3 v1.14.16
-	github.com/mattn/go-zglob v0.0.3
+	github.com/mattn/go-zglob v0.0.4
 	github.com/microcosm-cc/bluemonday v1.0.22
 	github.com/mileusna/useragent v1.2.1
 	github.com/onsi/ginkgo/v2 v2.8.0
