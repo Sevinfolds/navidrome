@@ -332,7 +332,7 @@
             "new_version": "Доступна новая версия! Пожалуйста, обновите это окно"
         },
         "toggleFieldsMenu": {
-            "columnsToDisplay": "Отображать столбцов",
+            "columnsToDisplay": "Отображение столбцов",
             "layout": "Макет",
             "grid": "Сетка",
             "table": "Таблица"
